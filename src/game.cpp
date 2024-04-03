@@ -1,4 +1,4 @@
-#include "../include/Header.h"
+#include "../include/game.h"
 #include <cstdlib>
 
 //Setters for Card
