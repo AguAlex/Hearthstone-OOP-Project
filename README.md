@@ -1,6 +1,7 @@
 
 ## This project is a mini-game in the style of the famous game Hearthstone.
-    The game consists of two players, the computer and the current person, who are assigned 3 randomly generated cards each. There are 4 different types of cards with specific life and attack:
+
+The game consists of two players, the computer and the current person, who are assigned 3 randomly generated cards each. There are 4 different types of cards with specific life and attack:
 Goblin, Orc, Knight and Witch.
 The game unfolds through the player's attacks, and the current cards of each player are displayed after each attack.
 An attack involves choosing the card with which the player wants to attack and the opponent's card that they want to attack.
