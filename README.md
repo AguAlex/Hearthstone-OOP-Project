@@ -1,7 +1,8 @@
-Acest proiect este un mini-joc in stilul celebrului joc Hearthstone.
-Jocul consta in cei 2 jocatori, computerul si persoana curenta, carora li se atribuie 3 carti generate random. Exista 4 tipuri de carti diferite cu viata si atac specific:
-Goblin, Orc, Knight si Witch. 
-Jocul se desfasoara prin atacurile jucatorului si se afiseaza cartile curente fiecarui jucator dupa fiecare atac.
-Atacul consta in alegerea cartii cu care jocatorul vrea sa atace si cartea adversarului pe care vrea sa o atace.
-La fiecare atac, se scade viata ambelor carti implicate cu valoarea atacului celeilalte.
-Jucatorul curent initiaza atacuri pana cand unul din jucatori ramane fara carti, iar la final se decide cine este castigatorul.
+
+## This project is a mini-game in the style of the famous game Hearthstone.
+    The game consists of two players, the computer and the current person, who are assigned 3 randomly generated cards each. There are 4 different types of cards with specific life and attack:
+Goblin, Orc, Knight and Witch.
+The game unfolds through the player's attacks, and the current cards of each player are displayed after each attack.
+An attack involves choosing the card with which the player wants to attack and the opponent's card that they want to attack.
+At each attack, the life of both cards involved is reduced by the value of the other's attack.
+The current player initiates attacks until one of the players runs out of cards, and at the end, the winner is decided.
